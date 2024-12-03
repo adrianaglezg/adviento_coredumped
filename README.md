@@ -1,0 +1,2 @@
+> [!NOTE]
+> nose que poner
